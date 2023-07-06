@@ -32,9 +32,10 @@
 }
 
 .app__header-button {
-    position: relative;
-    
-    left: 75% ;
+        display: block;
+        margin: 0 auto;
+        left: 50%;
+        position: absolute;
     
 } 
 
@@ -96,9 +97,10 @@
         margin:  3rem 0 5rem 0;
     }
     .app__header-button {
-        
-        position: relative;
-        left: 30px;
+        display: block;
+        margin: 0 auto;
+        left: 50%;
+        position: absolute;
         
     } 
     .app__header-h2 {
