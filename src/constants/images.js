@@ -15,6 +15,30 @@ import gallery13 from '../assets/gallery13.jpg';
 import gallery14 from '../assets/gallery14.jpg';
 import gallery15 from '../assets/gallery15.jpg';
 import gallery16 from '../assets/gallery16.jpg';
+import gallery17 from '../assets/gallery17.jpg';
+import gallery18 from '../assets/gallery18.jpg';
+import gallery19 from '../assets/gallery19.jpg';
+import gallery20 from '../assets/gallery20.jpg';
+import gallery21 from '../assets/gallery21.jpg';
+import gallery22 from '../assets/gallery22.jpg';
+import gallery23 from '../assets/gallery23.jpg';
+import gallery24 from '../assets/gallery24.jpg';
+import gallery25 from '../assets/gallery25.jpg';
+import gallery26 from '../assets/gallery26.jpg';
+import gallery27 from '../assets/gallery27.jpg';
+import gallery28 from '../assets/gallery28.jpg';
+import gallery29 from '../assets/gallery29.jpg';
+import gallery30 from '../assets/gallery30.jpg';
+import gallery31 from '../assets/gallery31.jpg';
+import gallery32 from '../assets/gallery32.jpg';
+import gallery33 from '../assets/gallery33.jpg';
+import gallery34 from '../assets/gallery34.jpg';
+import gallery35 from '../assets/gallery35.jpg';
+import gallery36 from '../assets/gallery36.jpg';
+import gallery37 from '../assets/gallery37.jpg';
+import gallery38 from '../assets/gallery38.jpg';
+import gallery39 from '../assets/gallery39.jpg';
+import gallery40 from '../assets/gallery40.jpg';
 import overlaybg from '../assets/overlaybg.png';
 import welcome from '../assets/welcome.png';
 import gericht from '../assets/gericht.png';
@@ -38,6 +62,30 @@ export default {
   gallery14,
   gallery15,
   gallery16,
+  gallery17,
+  gallery18,
+  gallery19,
+  gallery20,
+  gallery21,
+  gallery22,
+  gallery23,
+  gallery24,
+  gallery25,
+  gallery26,
+  gallery27,
+  gallery28,
+  gallery29,
+  gallery30,
+  gallery31,
+  gallery32,
+  gallery33,
+  gallery34,
+  gallery35,
+  gallery36,
+  gallery37,
+  gallery38,
+  gallery39,
+  gallery40,
   overlaybg,
   welcome,
   gericht,
