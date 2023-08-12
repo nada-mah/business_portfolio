@@ -8,7 +8,7 @@ const Header = () => (
     
   <div className="app__header app__wrapper section__padding" id="home">
       
-      <div className="app__wrapp er_info">
+      <div className="app__wrapper_info">
         <h1 className="app__header-h2"> مغاسل جميلة وفاخرة  </h1>
         <h1 className="app__header-h1">الهدى للمغاسل</h1>
 

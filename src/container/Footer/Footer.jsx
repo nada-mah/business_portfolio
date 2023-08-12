@@ -16,8 +16,8 @@ const Footer = () => (
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">تواصل معنا</h1>
-        <p className="app__footer-suptext">ADDRESS</p>
-        <p className="app__footer-suptext">+966 50 438 6391</p>
+        {/* <p className="app__footer-suptext">ADDRESS</p> */}
+        <h1 className="app__footer-suptext">+966 50 438 6391</h1>
         <div className="app__footer-links_icons">
           <a href='https://www.facebook.com/profile.php?id=100054198713724' target="_blank" rel="noopener noreferrer"><FiFacebook  /></a>
           <a href='#home' target="_blank" rel="noopener noreferrer"><FiTwitter  /></a>
